@@ -1,2 +1,6 @@
-# Test-terminal-font-variants
-One go function to print font variants for testing purpose
+# Compile/Run
+`go build terminalvf.go` `go run terminalvf.go`
+
+# Usage
+You can bypass an argument and custom text for testing<br>
+ `./terminalvf "terminal font variants checking"`
